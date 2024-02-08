@@ -1,4 +1,3 @@
-//All code is copyright 2024 Oreo The Husky Pup - Do not copy//
 "use strict";
 function faceCalc(){
     var face=document.getElementById("face");
